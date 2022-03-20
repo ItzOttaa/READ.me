@@ -1,4 +1,4 @@
-<h1 align="center">OTta.</h1> 
+<h1 align="center">Ottaa.</h1> 
 <h6 align="center">A 18 year old guy 🤷‍♂️</h6>
 
 
